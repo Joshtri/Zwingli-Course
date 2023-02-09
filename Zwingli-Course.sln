@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zwingli-Course", "Zwingli-Course\Zwingli-Course.csproj", "{54AA8CB2-156F-4066-A6F5-E717DCD3A04D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zwingli-Course-Function", "Zwingli-Course-Function\Zwingli-Course-Function.csproj", "{8C69BE12-0F05-4030-9AE0-19AB69C8D7D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54AA8CB2-156F-4066-A6F5-E717DCD3A04D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54AA8CB2-156F-4066-A6F5-E717DCD3A04D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54AA8CB2-156F-4066-A6F5-E717DCD3A04D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54AA8CB2-156F-4066-A6F5-E717DCD3A04D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C69BE12-0F05-4030-9AE0-19AB69C8D7D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C69BE12-0F05-4030-9AE0-19AB69C8D7D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C69BE12-0F05-4030-9AE0-19AB69C8D7D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C69BE12-0F05-4030-9AE0-19AB69C8D7D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D88AE15C-4DE5-434F-BB69-AB59893C5F86}
+	EndGlobalSection
+EndGlobal
